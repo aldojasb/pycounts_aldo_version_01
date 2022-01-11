@@ -14,7 +14,7 @@ $ pip install pycounts_aldo_version_01
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
+from pycounts_aldo_version_01.pycounts_aldo_version_01 import count_words
 from pycounts.plotting import plot_words
 import matplotlib.pyplot as plt
 
